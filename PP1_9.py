@@ -22,8 +22,6 @@ def q5():
   print(len(input("Input a word: ")))
 
 
-
-
 #Do not alter the following code
 #Comment out the following code when running your tests
 
